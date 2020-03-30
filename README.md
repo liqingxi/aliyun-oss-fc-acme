@@ -11,7 +11,7 @@
 
 ## 使用方法
 
-修改`config.py.example`
+修改`config.example.py`并保存为`config.py`
 
 打包zip
 

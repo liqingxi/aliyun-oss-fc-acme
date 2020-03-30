@@ -1,5 +1,4 @@
 from ali_oss_cdn import Ali_OSS
-from ali_fc_cdn import Ali_FC
 
 class AUTH_TYPE:
     HTTP = 'http-01'
